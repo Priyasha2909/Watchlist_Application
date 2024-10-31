@@ -23,12 +23,13 @@ To get a local copy up and running, follow these simple steps:
 
 2. Navigate to the project directory
    ```bash
-  cd Watchlist_Application
-  ```
+   cd Watchlist_Application
+   ```
 
  3. Run the application
     ```bash
     mvn spring-boot:run
+    ```
 
 
  
