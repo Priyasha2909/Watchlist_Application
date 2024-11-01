@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist.service;
+package com.example.demo.watchlist.service;
 
 import java.util.List;
 import java.util.NoSuchElementException;
@@ -6,8 +6,8 @@ import java.util.NoSuchElementException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.ashutosh.watchlist.Entity.Movie;
-import com.example.ashutosh.watchlist.repository.MovieRepo;
+import com.example.demp.watchlist.Entity.Movie;
+import com.example.demo.watchlist.repository.MovieRepo;
 @Service
 public class DatabaseService {
 	@Autowired
