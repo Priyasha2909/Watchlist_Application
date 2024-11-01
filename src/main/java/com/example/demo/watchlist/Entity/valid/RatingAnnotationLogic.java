@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist.Entity.valid;
+package com.example.demo.watchlist.Entity.valid;
 
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
