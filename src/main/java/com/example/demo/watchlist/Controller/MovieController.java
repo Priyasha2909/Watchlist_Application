@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist.Controller;
+package com.example.demo.watchlist.Controller;
 
 import java.util.HashMap;
 import java.util.List;
