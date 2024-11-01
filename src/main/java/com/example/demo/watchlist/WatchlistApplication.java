@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist;
+package com.example.demo.watchlist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
