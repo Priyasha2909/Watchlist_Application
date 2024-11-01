@@ -1,7 +1,7 @@
-package com.example.ashutosh.watchlist.Entity;
+package com.example.demo.watchlist.Entity;
 
-import com.example.ashutosh.watchlist.Entity.valid.Priority;
-import com.example.ashutosh.watchlist.Entity.valid.Rating;
+import com.example.demo.watchlist.Entity.valid.Priority;
+import com.example.demo.watchlist.Entity.valid.Rating;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
