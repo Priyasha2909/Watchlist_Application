@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist.service;
+package com.example.demo.watchlist.service;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
