@@ -1,4 +1,4 @@
-package com.example.ashutosh.watchlist.Entity.valid;
+package com.example.demo.watchlist.Entity.valid;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
